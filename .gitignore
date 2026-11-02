@@ -5,3 +5,5 @@ pptx-build/node_modules/
 pptx-build/package-lock.json
 .vscode/
 .idea/
+
+*.pptx
